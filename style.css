@@ -192,10 +192,6 @@ nav {
 
 /* footer */
 
-.footer__row {
-    
-}
-
 .footer__links {
     display: flex;
     justify-content: space-evenly;
